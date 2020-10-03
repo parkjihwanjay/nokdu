@@ -1,0 +1,15 @@
+@import '@/styles/packages';
+
+.intro-text {
+  width: 80%;
+  h2 {
+    font-size: 1.8rem;
+    color: $color-main;
+  }
+  p {
+    font-size: 1.4rem;
+    span {
+      color: $color-main;
+    }
+  }
+}

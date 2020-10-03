@@ -1,0 +1,19 @@
+@import 'packages';
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px dotted gray;
+  font-size: 1.4rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
